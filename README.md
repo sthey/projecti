@@ -1,6 +1,3 @@
-# projecti
-login and registration project
-
 <!DOCTYPE html>
 <head>
   <meta charset="UTF-8" />
